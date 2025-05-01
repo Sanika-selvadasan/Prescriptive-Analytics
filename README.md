@@ -6,10 +6,10 @@ This project is a Streamlit-based application that uses LangChain, OpenAI's GPT 
 
 Imagine you’re buried under piles of insurance claims, trying to spot trends and figure out what to do next. Instead of chugging coffee and crying over pivot tables, let our app:
 
-> Read your insurance data
-> Identify pain points (frequency, severity, etc.)
-> Generate rational, explainable, and actionable recommendations
-> Present it all in a Streamlit dashboard
+ Read your insurance data
+ Identify pain points (frequency, severity, etc.)
+ Generate rational, explainable, and actionable recommendations
+ Present it all in a Streamlit dashboard
 
 It's like having a data scientist and an insurance strategist rolled into one — and neither of them complains about meetings.
 
